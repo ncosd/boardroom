@@ -1,32 +1,7 @@
-# Boardroom
-Board of directors open source software for nonprofit organizations.
+# Vue 3 + Vite
 
-An open source project to help small nonprofit organizations run their Board of Directors operations.  Built with Vuejs and Firebase to keep costs zero or close to zero.
+This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
 
-## Features
-- Org Chart
-  - Board Members
-  - Officers
-    - President
-    - Treasurer
-    - Secretary
-  - Give or Get amount
-- Meeting schedule
-  - Modifiable agenda
-  - meeting notes
-  - Link to meeting document shelf
-  - action items from last meeting, and links to general action items
-- Document room
-  - Google Docs API integration
-  - Shelves for topics
-    - Meeting shelf
-    - Bylaws
-    - Policies
-- Action Items
-  - Organized by meeting or by Person
-  - General listing
-  - Each item has an age (opened since date)
-- Budget
-  - Annual budget
-  - Monthly targets
-  - Bank Balances
+## Recommended IDE Setup
+
+- [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
